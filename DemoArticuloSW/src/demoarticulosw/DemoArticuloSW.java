@@ -20,6 +20,7 @@ public class DemoArticuloSW {
         System.out.println("Añadan algo tropa de lagartos");
         int i=0;
         i=1;
+        System.out.println("Funko tropa de lagartos");
     }
     
 }
