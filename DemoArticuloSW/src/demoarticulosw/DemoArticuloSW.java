@@ -22,6 +22,8 @@ public class DemoArticuloSW {
         i=1;
         System.out.println("Funko tropa de lagartos");
         System.out.println("Espero que ahora si se pueda");
+        int j = 0;
+        j = 2;
     }
     
 }
